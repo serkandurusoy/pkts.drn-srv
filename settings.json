@@ -1,0 +1,10 @@
+{
+  "public": {
+
+  },
+  "private": {
+    "mqtt_server_url": "172.20.10.2",
+    "mqtt_reading_latlong_current_topic": "pektas/drones/[:id]/readings/latlong/current",
+    "mqtt_command_latlong_destination_topic": "pektas/drones/[:id]/commands/latlong/destination"
+  }
+}
